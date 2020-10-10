@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="title_activity_main">Todo</string>
+    <string name="title_activity_add_todo">Adicionar Todo</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_input_lable">Titulo</string>
+    <string name="input_title_hint">Insira o titulo Aqui</string>
+    <string name="prazo_input_lable">Prazo</string>
+    <string name="input_prazo_hint">Selecione o prazo</string>
+    <string name="descricao_input_lable">Descrição</string>
+    <string name="input_descricao_hint">Descreva o que devera ser feito</string>
+    <string name="btn_select_date">Selecionar</string>
+    <string name="null_value">O %1$s não pode estar vazio!</string>
+</resources>
